@@ -4,7 +4,7 @@
 	"name": "Adder CCS-PRO",
 	"shortname": "CCS-PRO",
 	"description": "Control the Adder CCS-PRO4 KM switch via HTTP",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"license": "MIT",
 	"repository": "git+https://github.com/TomsFaire/companion-module-ccs-pro.git",
 	"bugs": "https://github.com/TomsFaire/companion-module-ccs-pro/issues",
