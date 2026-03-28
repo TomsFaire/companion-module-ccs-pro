@@ -3,8 +3,7 @@ package-lock.json
 DEBUG-*
 *.tgz
 pkg/
-.yarn/cache
-.yarn/install-state.gz
+/.yarn
 .claude/
 
 # Markdown — private by default; only README + Companion HELP ship in the repo
