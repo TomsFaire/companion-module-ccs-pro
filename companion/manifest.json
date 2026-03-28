@@ -6,12 +6,12 @@
 	"description": "Control the Adder CCS-PRO4 KM switch via HTTP",
 	"version": "0.1.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-adder-ccs-pro.git",
-	"bugs": "https://github.com/bitfocus/companion-module-adder-ccs-pro/issues",
+	"repository": "git+https://github.com/TomsFaire/companion-module-ccs-pro.git",
+	"bugs": "https://github.com/TomsFaire/companion-module-ccs-pro/issues",
 	"maintainers": [
 		{
-			"name": "Your Name",
-			"email": "your@email.com"
+			"name": "Tom Reynolds",
+			"email": "tom@reynoldsproduction.com"
 		}
 	],
 	"runtime": {
