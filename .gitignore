@@ -1,5 +1,6 @@
 node_modules/
 *.tgz
+!companion-module-adder-ccs-pro-*.tgz
 pkg/
 .yarn/cache
 .yarn/install-state.gz
